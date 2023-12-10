@@ -11,6 +11,7 @@ This repository contains a 'Movie Recommendation System'. It uses various algori
 
 ## Screenshots
 
+![screenshot](https://github.com/bhaveshk22/Movie-Recommender-System/assets/141263853/d9754b2e-bf62-4785-b165-8600f079bd50)
 
 
 

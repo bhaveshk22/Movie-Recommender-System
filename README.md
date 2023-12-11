@@ -15,24 +15,20 @@ This repository contains a 'Movie Recommendation System'. It uses various algori
 
 
 
-## App Link
-
-Test App here: 
-
 ## Roadmap
 
-1. **Data Preprocessing**: The first step involved cleaning and preprocessing the movie dataset to make it suitable for the recommendation system.
+1. **Data Preprocessing**: The first step involved cleaning and preprocessing the movie dataset to make it suitable for the recommendation system. This included handling missing values and encoding categorical variables.
 
-2. **Web Scraping**: This involved writing scripts to automatically extract movie details and user ratings from various online sources, providing a rich and diverse dataset for our recommendation system.
+2. **Web Scraping**: The data used in this project was obtained through web scraping. This involved writing scripts to automatically extract movie details and user ratings from various online sources, providing a rich and diverse dataset for our recommendation system.
 
-3. **Recommendation System**: I built a recommendation system using collaborative filtering, a popular method for building recommendation systems.
+3. **Recommendation System**: I built a recommendation system using collaborative filtering, a popular method for building recommendation systems. This method makes automatic predictions about a user’s interests by collecting preferences from many users.
 
-4. **Model Evaluation**: The performance of the recommendation system was evaluated using metrics such as r2_score, accuracy_score, etc.
+4. **Model Evaluation**: The performance of the recommendation system was evaluated using metrics such as r2_score, accuracy_score, etc. This helped in identifying the effectiveness of the recommendation system.
 
-5. **Deployment with Heroku**: The final step was deploying the recommendation system on Heroku. This allowed the model to be accessed via a simple web interface, enabling real-time recommendations.
+
 ## Lessons Learned
 
-This project was a fascinating exploration of recommendation systems and cloud deployment. It was particularly interesting to see how these techniques can be applied to provide personalized movie recommendations.
+This project was a fascinating exploration of recommendation systems. It was particularly interesting to see how these techniques can be applied to provide personalized movie recommendations.
 
 
 
